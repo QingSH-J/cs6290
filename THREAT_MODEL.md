@@ -72,4 +72,3 @@ flowchart TB
 - The “observable signals” above map directly to **Gherkin Spec** Given-When-Then scenarios.
 - The quantitative analyst can implement metrics such as `calculate_volatility()`, spread, and volume spike from these.
 - The visualization/validation role can run Ground Truth checks (news/Twitter) on dates flagged as anomalous.
-
