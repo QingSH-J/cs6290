@@ -1,0 +1,59 @@
+================================================================================
+Third Week Quantitative Analysis Report (Based on Quality‑Assured Data)
+================================================================================
+Generated: 2026-03-24 16:42:18
+Data period: 2024-01-05 → 2024-11-06
+
+I. Enhanced Metrics Results
+----------------------------------------
+Volatility autocorrelation (1‑lag): 0.9273
+Trump assassination day: recovery days to pre‑event price: 1
+Monthly average volatility:
+  Month 1: 5.2958
+  Month 2: 1.1624
+  Month 3: 0.9157
+  Month 4: 1.2550
+  Month 5: 2.5046
+  Month 6: 1.4052
+  Month 7: 3.9493
+  Month 8: 2.8984
+  Month 9: 1.8520
+  Month 10: 2.6488
+  Month 11: 3.2479
+
+II. Event Comparison Summary
+----------------------------------------
+Trump_Assassination (2024-07-13):
+  Daily Return: -0.83%
+  Volatility Multiple: 1.19x
+  Percentile Rank: 51.8%
+  Post‑10d Volatility Change: 95.1%
+  Recovery Days: 1.0
+
+Max_Gain (2024-01-08):
+  Daily Return: 17.28%
+  Volatility Multiple: 4.46x
+  Percentile Rank: 1.0%
+  Post‑10d Volatility Change: -40.6%
+  Recovery Days: 1.0
+
+Max_Loss (2024-01-05):
+  Daily Return: -19.00%
+  Volatility Multiple: 4.46x
+  Percentile Rank: 0.7%
+  Post‑10d Volatility Change: -15.4%
+  Recovery Days: nan
+
+Max_Volatility (2024-01-05):
+  Daily Return: -19.00%
+  Volatility Multiple: 4.46x
+  Percentile Rank: 0.7%
+  Post‑10d Volatility Change: -15.4%
+  Recovery Days: nan
+
+III. Conclusions and Recommendations
+----------------------------------------
+1. Volatility exhibits notable autocorrelation, indicating persistence of volatility.
+2. The Trump assassination event caused significant volatility changes but price recovered quickly – a short‑term shock.
+3. Monthly volatility varies considerably; seasonal patterns should be monitored.
+4. Enhanced metrics (recovery days, volatility change) provide quantitative references for risk monitoring.
