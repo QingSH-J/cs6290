@@ -1,0 +1,35 @@
+================================================================================
+ETH ETF Volatility Analysis Report
+================================================================================
+Generated: 2026-04-14 14:40:34
+Data Range: 2024-01-10 to 2024-05-24
+
+I. Overall Anomaly Statistics
+----------------------------------------
+Valid trading days: 135
+Anomaly days: 13 (9.6%)
+
+Anomaly Reason Distribution:
+  top_10%: 11 days
+  2σ,3x_volatility,top_10%: 1 days
+  3x_volatility,top_10%: 1 days
+
+II. Key Date Comparison
+----------------------------------------
+max_gain_date (2024-05-21):
+  Return: 542.11%
+  Volatility multiple: 12.37x
+  Percentile rank: 0.7%
+  Anomaly: Yes (2σ,3x_volatility,top_10%)
+
+max_loss_date (2024-03-21):
+  Return: -32.65%
+  Volatility multiple: 1.02x
+  Percentile rank: 4.4%
+  Anomaly: Yes (top_10%)
+
+max_volatility_date (2024-05-21):
+  Return: 542.11%
+  Volatility multiple: 12.37x
+  Percentile rank: 0.7%
+  Anomaly: Yes (2σ,3x_volatility,top_10%)
